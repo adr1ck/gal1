@@ -13,7 +13,7 @@ function createCard(cardObj) {
             <img class="image" src="${cardObj.download_url}" alt="test image">
         </div>
        <div class="content">
-       Alpha Wolf - Mono
+       ${cardObj.id}
 
        </div>
     </div>

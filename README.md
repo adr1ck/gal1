@@ -1,1 +1,1 @@
-# gallery
+# The web page displaying the structured set of images.
